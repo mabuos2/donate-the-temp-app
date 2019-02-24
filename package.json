@@ -1,0 +1,19 @@
+{
+  "name": "donate-the-temp-app",
+  "version": "1.0.0",
+  "description": "A game that retrieves the current weather of any city using the OpenWeatherMap API and donates that amount by utilizing Checkbook.io API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabuos2/donate-the-temp-app.git"
+  },
+  "author": "mohammad abuosbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabuos2/donate-the-temp-app/issues"
+  },
+  "homepage": "https://github.com/mabuos2/donate-the-temp-app#readme"
+}
